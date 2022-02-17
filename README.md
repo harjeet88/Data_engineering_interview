@@ -87,6 +87,7 @@
 6. what are different ingestion tools that you have used and which one is best and why?
 7. difference between ingestion using sqoop vs ingestion using spark
 8. How will you build ingestion framework using kafka?
+9. Apache Nifi vs Kafka Connect
 
 ## Data lakes and lakehouse
 1. What is datalake?
