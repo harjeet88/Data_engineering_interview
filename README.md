@@ -19,6 +19,10 @@
 
 ## Performance Optimizations
 1. [Out Of Memory Spark](https://www.youtube.com/watch?v=FdT5o7M35kU&list=PL9sbKmQTkW04hS0KG27NA_81YPFEOzU_e&index=21)
+2. [Catalyst Optimizer](https://www.youtube.com/watch?v=iCWAVLkGxdM&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=26)
+3. [map vs mapPartition](https://www.youtube.com/watch?v=TtfUUvFoKYw&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=28)
+4. [Vectorized UDF](https://www.youtube.com/watch?v=VtUNDa-nYHA&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=57)
+5. 
 
 
 ## Interview Questions
@@ -45,3 +49,39 @@
 21. [Why Spark runs faster than Hadoop?](https://www.youtube.com/watch?v=Ox28EDatZyY&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=15)
 22. [RDD vs Dataframe vs Dataset](https://www.youtube.com/watch?v=ZirbI1355B8&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=14)
 23. [What is Spark Lineage?](https://www.youtube.com/watch?v=4KRT6XgM93k&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=19)
+24. [Map vs MapPartition](https://www.youtube.com/watch?v=TtfUUvFoKYw&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=28)
+25. [Driver vs Executor](https://www.youtube.com/watch?v=a2j-XcsLEcE&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=39)
+26. [Orc vs Parquet](https://www.youtube.com/watch?v=NZLrJmjoXw8&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=40)
+27. How will you choose right schedular for your organisation
+28. [Why is Lazy evaluation Important](https://www.youtube.com/watch?v=iP-ZpuoM_YY&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=47)
+29. [What is spark Glom?](https://www.youtube.com/watch?v=sxp4cWq7bxQ&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=48)
+30. [Wide vs Narrow Transformation](https://www.youtube.com/watch?v=7-evA4Q2sBY&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=50)
+31. [Spark's Fault Tolerance](https://www.youtube.com/watch?v=tKr9X_ar4_o&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=51)
+32. [Spark vs Yarn's Fault Tolerence](https://www.youtube.com/watch?v=Z4HyrvPtjKw&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=52)
+33. [What is Vectorized UDF?](https://www.youtube.com/watch?v=VtUNDa-nYHA&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=57)
+34. [Map vs FlatMap](https://www.youtube.com/watch?v=mTxzTWngm-Y&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=58)
+35. [How do you decide number of buckets?](https://www.youtube.com/watch?v=_6hKj1QvAr4&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=60)
+36. What are different optimizations that you have worked on?
+
+# Nosql
+1. How do you Choose a Nosql DB?
+2. Explain CAP Theorem
+3. What is different between Arch of HBase and Cassandara and how does it impacts a user of these DBs.
+4. What are different optimizations you have done HBase?
+5. What is Hot-spotting
+6. What is block cache in Hbase
+7. How will you implement Triggers in Hbase?
+8. how do you bulk load Data in Hbase
+9. Explain Architecture of Hbase
+10. What is data locality in HBase?
+11. What is block cache in Hbase? How is it different from normal cache?
+12. What is bloomfilter?
+13. how does cassandra uses consistent hashing?
+
+## Data Ingestion Questions
+1. How do you implement incemental load in Your Datalake?
+2. How do you ensure that data ingested is correct?
+3. Design a Data Ingestion Framework
+4. What is a datalake?
+5. Difference between datalake and lakehouse?
+6. 
