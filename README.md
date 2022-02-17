@@ -84,4 +84,30 @@
 3. Design a Data Ingestion Framework
 4. What is a datalake?
 5. Difference between datalake and lakehouse?
-6. 
+6. what are different ingestion tools that you have used and which one is best and why?
+7. difference between ingestion using sqoop vs ingestion using spark
+8. How will you build ingestion framework using kafka?
+
+## Data lakes and lakehouse
+1. What is datalake?
+2. Different stages of data in datalake?
+3. datalake vs lakehouse
+4. 
+
+## Security
+1. How do you secure you data on cluster?
+2. Explain about Kerberos and Kerberos Architecture 
+3. How do you manage PII data
+4. How do you mange data encription
+
+## Other
+1. How will you build observabilty on your platform
+2. Explain your CICD pipeline approach
+3. Explain your git Strategy
+4. What are your coding Practices at high level
+5. SOLID Principals
+6. KISS Principal
+7. BOY SCOTT CAMP Rule
+8. DRY Principal
+9. 12 factor design
+10. How do you structure your Project?
