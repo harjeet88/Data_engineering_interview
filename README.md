@@ -1,6 +1,6 @@
 # Data engineering Interview
 
-## Basic Topics
+## Apache Spark - Basic Topics
 1. RDD
 2. DataFrame
 3. DataSets
@@ -17,7 +17,7 @@
 14. [Memory Management](https://www.youtube.com/watch?v=iLpjNItogwc&list=PL9sbKmQTkW04hS0KG27NA_81YPFEOzU_e&index=23)
 
 
-## Performance Optimizations
+## Apache Spark - Performance Optimizations
 1. [Out Of Memory Spark](https://www.youtube.com/watch?v=FdT5o7M35kU&list=PL9sbKmQTkW04hS0KG27NA_81YPFEOzU_e&index=21)
 2. [Catalyst Optimizer](https://www.youtube.com/watch?v=iCWAVLkGxdM&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=26)
 3. [map vs mapPartition](https://www.youtube.com/watch?v=TtfUUvFoKYw&list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std&index=28)
@@ -25,7 +25,7 @@
 5. 
 
 
-## Apache Spark Interview Questions
+## Apache Spark - Interview Questions
 1. [Spark Lineage vs DAG](https://www.youtube.com/watch?v=NGOD7JN6azM&list=PL9sbKmQTkW04hS0KG27NA_81YPFEOzU_e&index=1)
 2. [Why Spark Dataset is type safe](https://www.youtube.com/watch?v=eN2INeEcGJY&list=PL9sbKmQTkW04hS0KG27NA_81YPFEOzU_e&index=5)
 3. [How to choose between Scala or Python for Spark?](https://www.youtube.com/watch?v=WhiuoERZKgY&list=PL9sbKmQTkW04hS0KG27NA_81YPFEOzU_e&index=6)
