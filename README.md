@@ -77,6 +77,7 @@
 11. What is block cache in Hbase? How is it different from normal cache?
 12. What is bloomfilter?
 13. how does cassandra uses consistent hashing?
+14. [Cassandra Design](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 
 ## Data Ingestion Questions
 1. How do you implement incemental load in Your Datalake?
