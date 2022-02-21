@@ -104,7 +104,7 @@
 ## Other
 1. How will you build observabilty on your platform
 2. Explain your CICD pipeline approach
-3. Explain your git Strategy
+3. [Explain your git Strategy](https://nvie.com/posts/a-successful-git-branching-model/)
 4. What are your coding Practices at high level
 5. [SOLID Principals](https://gist.github.com/dmmeteo/f630fa04c7a79d3c132b9e9e5d037bfd)
 6. KISS Principal
