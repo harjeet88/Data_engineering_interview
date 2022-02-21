@@ -106,9 +106,9 @@
 2. Explain your CICD pipeline approach
 3. Explain your git Strategy
 4. What are your coding Practices at high level
-5. SOLID Principals
+5. [SOLID Principals](https://gist.github.com/dmmeteo/f630fa04c7a79d3c132b9e9e5d037bfd)
 6. KISS Principal
 7. BOY SCOTT CAMP Rule
 8. DRY Principal
-9. 12 factor design
+9. [12 factor design](https://12factor.net/)
 10. How do you structure your Project?
