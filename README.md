@@ -67,8 +67,8 @@
 1. How do you Choose a Nosql DB?
 2. Explain CAP Theorem
 3. What is different between Arch of HBase and Cassandara and how does it impacts a user of these DBs.
-4. What are different optimizations you have done HBase?
-5. What is Hot-spotting
+4. [What are different optimizations you have done HBase?](https://github.com/harjeet88/Data_engineering_interview/wiki/HBase-Optimization)
+5. What is Hot-spotting?
 6. What is block cache in Hbase
 7. How will you implement Triggers in Hbase?
 8. how do you bulk load Data in Hbase
