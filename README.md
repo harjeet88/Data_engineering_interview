@@ -113,6 +113,8 @@
 8. DRY Principal
 9. [12 factor design](https://12factor.net/)
 10. How do you structure your Project?
-11. [Is scala Call by value or call by reference?]()
-12. [Functiona vs OOPS language](https://stackoverflow.com/questions/4790050/can-scala-call-by-reference#:~:text=Java%20and%20Scala%20both%20use,this%20and%20call%20by%20reference.)
-13. 
+11. [Is scala Call by value or call by reference?](https://stackoverflow.com/questions/4790050/can-scala-call-by-reference#:~:text=Java%20and%20Scala%20both%20use,this%20and%20call%20by%20reference.)
+12. [Functiona vs OOPS language]
+13. Explain Cost based Optimiser in Spark
+14. What are the things you keep in mind during code review
+15. 
